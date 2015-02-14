@@ -1,0 +1,13 @@
+import(rpart)
+export(
+    tr.rules,
+    tr.rate
+)
+exportMethods(
+    "predict",
+    "prune",
+    "show" 
+)
+exportClasses(
+     "tr.rule.set" 
+)

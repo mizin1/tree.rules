@@ -1,0 +1,10 @@
+Package: tree.rules
+Type: Package
+Title: Generowanie i przycinanie drzew decyzyjnych na podstawie pakietu rpart
+Version: 1.0
+Date: 2015-01-07
+Author: Konrad Miziñski, Micha³ Kielak
+Description: Generowanie i przycinanie drzew decyzyjnych na podstawie pakietu rpart
+Maintainer: Konrad Miziñski <k.mizinski@stud.elka.pw.edu.pl> , Micha³ Kielak <m.kielak@stud.elka.pw.edu.pl>
+License: GPL-3
+Depends: methods, rpart
